@@ -1,0 +1,16 @@
+D:\Cast Group\VendasComissoes\VendasComissoes\bin\Debug\net5.0\VendasComissoes.exe
+D:\Cast Group\VendasComissoes\VendasComissoes\bin\Debug\net5.0\VendasComissoes.deps.json
+D:\Cast Group\VendasComissoes\VendasComissoes\bin\Debug\net5.0\VendasComissoes.runtimeconfig.json
+D:\Cast Group\VendasComissoes\VendasComissoes\bin\Debug\net5.0\VendasComissoes.runtimeconfig.dev.json
+D:\Cast Group\VendasComissoes\VendasComissoes\bin\Debug\net5.0\VendasComissoes.dll
+D:\Cast Group\VendasComissoes\VendasComissoes\bin\Debug\net5.0\VendasComissoes.pdb
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.csproj.AssemblyReference.cache
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.AssemblyInfoInputs.cache
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.AssemblyInfo.cs
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.csproj.CoreCompileInputs.cache
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.dll
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\refint\VendasComissoes.dll
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.pdb
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\VendasComissoes.genruntimeconfig.cache
+D:\Cast Group\VendasComissoes\VendasComissoes\obj\Debug\net5.0\ref\VendasComissoes.dll

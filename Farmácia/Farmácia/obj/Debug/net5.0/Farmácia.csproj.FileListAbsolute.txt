@@ -1,0 +1,16 @@
+D:\Cast Group\Farmácia\Farmácia\bin\Debug\net5.0\Farmácia.exe
+D:\Cast Group\Farmácia\Farmácia\bin\Debug\net5.0\Farmácia.deps.json
+D:\Cast Group\Farmácia\Farmácia\bin\Debug\net5.0\Farmácia.runtimeconfig.json
+D:\Cast Group\Farmácia\Farmácia\bin\Debug\net5.0\Farmácia.runtimeconfig.dev.json
+D:\Cast Group\Farmácia\Farmácia\bin\Debug\net5.0\Farmácia.dll
+D:\Cast Group\Farmácia\Farmácia\bin\Debug\net5.0\Farmácia.pdb
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.csproj.AssemblyReference.cache
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.AssemblyInfoInputs.cache
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.AssemblyInfo.cs
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.csproj.CoreCompileInputs.cache
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.dll
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\refint\Farmácia.dll
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.pdb
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\Farmácia.genruntimeconfig.cache
+D:\Cast Group\Farmácia\Farmácia\obj\Debug\net5.0\ref\Farmácia.dll
